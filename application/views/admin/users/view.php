@@ -33,7 +33,7 @@
                                 </div>
                             </div>
                             <div class="card-datatable">
-                                <table class="dt-responsive table" id="tableData">
+                                <table class="dt-responsive table table-hover-animation" id="tableData">
                                     <thead>
                                         <tr>
                                             <th width="5%">Edit</th>

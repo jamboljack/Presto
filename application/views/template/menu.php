@@ -295,12 +295,12 @@ if ($uri == 'home') {
                 </li>
                 <li class="<?=$penjualan;?>">
                     <a class="nav-link d-flex align-items-center" href="<?=site_url('admin/penjualan');?>">
-                        <i data-feather='shopping-bag'></i><span data-i18n="Dashboard">Penjualan</span>
+                        <i data-feather='shopping-bag'></i><span data-i18n="Penjualan">Penjualan</span>
                     </a>
                 </li>
                 <li class="<?=$retur_jual;?>">
                     <a class="nav-link d-flex align-items-center" href="<?=site_url('admin/retur_jual');?>">
-                        <i data-feather='external-link'></i></i><span data-i18n="Dashboard">Retur Penjualan</span>
+                        <i data-feather='external-link'></i><span data-i18n="Retur Penjualan">Retur Penjualan</span>
                     </a>
                 </li>
                 <li class="dropdown nav-item <?=$grupuser;?>" data-menu="dropdown">
